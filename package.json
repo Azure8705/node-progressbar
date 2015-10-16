@@ -1,0 +1,16 @@
+{
+  "name": "node-progressbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "progress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Liwag",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "chai-http": "^1.0.0",
+    "mocha": "^2.3.3"
+  }
+}
